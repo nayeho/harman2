@@ -1,0 +1,3 @@
+Python is fun!
+Learning file I/O.
+Keep practicing!
